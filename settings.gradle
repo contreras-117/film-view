@@ -1,0 +1,3 @@
+rootProject.name = 'FilmView'
+include 'Application'
+
